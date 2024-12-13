@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734128407 source:c:\users\hp\desktop\files\c++\duplicateelimination\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
