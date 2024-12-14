@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734137877 source:c:\users\hp\desktop\files\c++\sumoftwodicesarray\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
